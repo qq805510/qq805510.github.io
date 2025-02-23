@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 姓名 Name
+  - title: 姓名 Name11
     link: /
-  - title: 性别 Sex
+  - title: 性别 Sex22
     link: /research.html
-  - title: 年龄 Age
+  - title: 年龄 Age33
     link: /publications.html
