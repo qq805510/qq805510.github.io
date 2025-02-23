@@ -1,4 +1,4 @@
-name: 肖航课题组  Xiao Research Group
+name: geniuses课题组  SM Research Group
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 姓名 Name
     link: /
-  - title: 科研项目 Research
+  - title: 性别 Sex
     link: /research.html
-  - title: 论文 Publications
+  - title: 年龄 Age
     link: /publications.html
